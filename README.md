@@ -1,3 +1,5 @@
+Joint work with Sameerah Helal and Marvin Pepito.
+
 # Nonlinear Projection Pursuit with Neural Nets
 ## Files
 Summary in chronological order
